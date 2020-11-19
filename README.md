@@ -1,1 +1,1 @@
-# Sequence-Models-NLP-
+# Sequence-Models-NLP (Coursera)
